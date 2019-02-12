@@ -1,0 +1,19 @@
+.intro{
+    color:#ecf0f1;
+    text-align: center;
+    margin-top: 7%
+}
+
+.intro img{
+    border-radius: 50%;
+    max-width: 20%;
+    max-height: 20%;
+    border: 7px solid #ecf0f1;
+}
+
+body{
+    background-color: #192a56;
+}
+a{
+    color:#DDA826
+}
