@@ -17,3 +17,12 @@ body{
 a{
     color:#DDA826
 }
+
+.lista-linha {
+    padding-left: 0;
+    list-style: none;
+}
+
+.lista-linha li{
+    display: inline-block
+}
