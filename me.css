@@ -26,3 +26,7 @@ a{
 .lista-linha li{
     display: inline-block
 }
+
+.espaco-icone {
+    margin-left: 5%;
+}
